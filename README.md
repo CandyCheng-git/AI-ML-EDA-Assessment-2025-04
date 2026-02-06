@@ -24,16 +24,6 @@ EDA is where most ML projects succeed or fail. If the data is messy, biased, or 
 
 ---
 
-## Dataset
-- **Source:** _(add link or citation if public; otherwise say “provided for coursework”)_
-- **Rows / Columns:** _(fill in)_
-- **Target variable:** _(fill in)_
-- **Task type:** _(Regression / Classification)_
-
-> If you can’t publish the dataset, say so clearly and include a small schema/data dictionary.
-
----
-
 ## Key questions answered
 Replace these with your actual questions from the notebook:
 - What features have the strongest relationship with the target?
